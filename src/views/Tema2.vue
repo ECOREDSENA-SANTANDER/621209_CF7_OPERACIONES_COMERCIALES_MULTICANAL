@@ -25,7 +25,7 @@
       .col-lg-4.col-md-9.col-9.mb-4
         img.d-none.d-lg-block(src='@/assets/curso/tema2/2.png', alt='tema1')
       .col-lg-8.col-md-12.col-12.mb-2
-        p.mb-3 Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, whisky, ron, aguardiente, brandy, etc.
+        p.mb-3 Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, #[em whisky], ron, aguardiente, #[em brandy], etc.
         p.mb-3 La cantidad de referencias que pone en venta un establecimiento está condicionada por el tamaño del local. Evidentemente, los establecimientos que posean más tamaño tendrán la posibilidad de poner en venta una mayor cantidad de referencias. 
         p.mb-3 Los supermercados, que suelen tener más o menos entre 1.000 m² y 2,500 m², pueden poner en venta aproximadamente 5.300 referencias, y los autoservicios, que son más pequeños en tamaño, máximo 2.900 referencias. Otras variables que influyen en la cantidad de referencias que trabaja un local comercial, son los hábitos de compra del consumidor, la imagen que tenga el establecimiento y su política comercial.
         p.mb-3 La clasificación o estructura del surtido radica en organizar este grupo de referencias en niveles. Tiene un doble propósito: el primero es diferenciar los niveles y el segundo es identificar cuáles niveles poseen mayor o menor rango. En cuanto a la gestión por categorías, la clasificación de referencias se puede distinguir comenzando en la totalidad del surtido y finalizando en las referencias de los artículos; como se presenta a continuación. 
@@ -324,8 +324,8 @@
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/24.svg', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Tridimensionales
-            p.mb-3 PlanoGraphics, Planogramas PRO y Adalta Apollo #[em Space Management & Planning], entre otros.
+            h3.mb-4 La naturaleza de los productos
+            p.mb-3 PlanoGraphics, Planogramas PRO y Adalta Apollo Space Management & Planning, entre otros.
             p.mb-3 Cuando se establece un planograma se debe evitar:
             ul.lista-ul
               li.d-flex.mb-1
@@ -968,7 +968,7 @@
           .row.col-xl-11.m-auto(titulo="Resolución 2400 de mayo 22 de 1979")
             p.mb-0 Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
           .row.col-xl-11.m-auto(titulo="Título V. Artículo 202. Código de Colores")
-            p.mb-0 “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren (aparatos, máquinas, equipos, ductos, tuberías, etc.); y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la AMERICAN STANDARS ASSOCIATION (ASA) y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”. 
+            p.mb-0 “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren (aparatos, máquinas, equipos, ductos, tuberías, etc.); y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la American Standards Association (ASA) y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”. 
           .row.col-xl-11.m-auto(titulo="Decreto 1443 de 2014")
             p.mb-0 Por medio del cual se dictan disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST).
           .row.col-xl-11.m-auto(titulo="Decreto 1072 de 2015, especialmente la parte referida al SG-SST")

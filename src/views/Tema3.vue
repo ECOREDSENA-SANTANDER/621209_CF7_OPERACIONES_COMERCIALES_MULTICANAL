@@ -260,7 +260,7 @@
       .col-lg-4.col-md-9.col-9
         img.mb-4(src='@/assets/curso/tema3/19.png', alt='')
       .col-lg-8
-        p.mb-4 Los clientes en la actualidad están más invadidos de publicidad porque, además de los medios tradicionales o masivos (televisión, prensa, radio, revistas, cine, etc.), también están los medios alternativos (correo electrónico, redes sociales, #[em blogs], telefonía celular, etc.). En un contexto así, las acciones de mercadeo alternativo se convierten en una oportunidad muy atractiva. Precisamente una de estas acciones alternativas de mercadeo es la activación de marca.
+        p.mb-4 Los clientes en la actualidad están más invadidos de publicidad porque, además de los medios tradicionales o masivos (televisión, prensa, radio, revistas, cine, etc.), también están los medios alternativos (correo electrónico, redes sociales, blogs, telefonía celular, etc.). En un contexto así, las acciones de mercadeo alternativo se convierten en una oportunidad muy atractiva. Precisamente una de estas acciones alternativas de mercadeo es la activación de marca.
         .cajon.color-secundario.p-4
           p.mb-0 El concepto se puede definir con aquellas actividades en que la marca tiene una relación directa con el cliente. Esas actividades pertenecen al #[em marketing] BTL que es la sigla de #[em Below The Line] (mercadeo alternativo o no tradicional). El mercadeo alternativo se identifica por llamar la atención del cliente de una manera diferente a las demás acciones de comunicación como por ejemplo la publicidad, boletines, promociones o fuerza de ventas.
 
@@ -303,7 +303,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-4 #[b Entornos digitales]
-                p.mb-0 Se refiere a internet y su ecosistema digital, que incluye el sitio web, aplicaciones, redes sociales, #[em blogs, chats,] entre otros. A través de estos canales, los clientes pueden establecer un vínculo con la marca después de la activación, y también compartir sus experiencias con sus contactos. La presencia en estos medios, junto con la gestión de perfiles, mensajes, identidad, y la capacidad de diálogo, interacción y retroalimentación con los clientes, hace que esta dimensión sea fundamental en la activación de las marcas. 
+                p.mb-0 Se refiere a internet y su ecosistema digital, que incluye el sitio web, aplicaciones, redes sociales, blogs, chats, entre otros. A través de estos canales, los clientes pueden establecer un vínculo con la marca después de la activación, y también compartir sus experiencias con sus contactos. La presencia en estos medios, junto con la gestión de perfiles, mensajes, identidad, y la capacidad de diálogo, interacción y retroalimentación con los clientes, hace que esta dimensión sea fundamental en la activación de las marcas. 
           
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Entornos físicos")
             .row.justify-content-center.align-items-center
