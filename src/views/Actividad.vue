@@ -478,7 +478,7 @@ export default {
         {
           id: 15,
           texto:
-            'La exhibición en check out se caracteriza por ubicar productos:',
+            'La exhibición en <i>check out</i> se caracteriza por ubicar productos:',
           imagen: require('@/assets/actividad/imagen05.png'),
           barajarRespuestas: true,
           opciones: [

@@ -32,9 +32,6 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-md-12.col-12.mb-4
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 7. 
-          span Estructura del surtido
         ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
@@ -127,7 +124,7 @@
                 p.mb-4 Es cuando un establecimiento comercial quiere satisfacer de manera amplia una gran variedad de necesidades. Para ello, debe haber muchas familias y que cada familia posea muchas referencias.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 8. 
+                  h5 Figura 7. 
                   | Surtido amplio y profundo
                 img(alt="Se presenta cuando un establecimiento comercial busca satisfacer una amplia gama de necesidades, ofreciendo a profundidad muchas familias de productos, cada una con numerosas referencias." src="@/assets/curso/tema2/8.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
@@ -136,7 +133,7 @@
                 p.mb-4 Muy normal en autoservicios y tiendas de descuento. Se da cuando el establecimiento tiene muchas familias y cada familia posee poca variedad de artículos.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 9. 
+                  h5 Figura 8. 
                   | Surtido amplio y poco profundo
                 img(alt="Se presenta cuando el establecimiento ofrece muchas familias de productos, pero cada familia tiene una variedad limitada de artículos." src="@/assets/curso/tema2/9.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
@@ -145,7 +142,7 @@
                 p.mb-4 Muy normal en tiendas especializadas, porque presenta buena variedad de productos, pero solo para algunas familias específicas. Por ejemplo, las tiendas de electrodomésticos.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 10. 
+                  h5 Figura 9. 
                   | Surtido estrecho y profundo
                 img(alt="Se presenta buena variedad de productos, pero solo en algunas familias específicas, como en las tiendas de electrodomésticos." src="@/assets/curso/tema2/10.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
@@ -154,7 +151,7 @@
                 p.mb-4 Muy normal en las tiendas tradicionales de barrio. Se da cuando el establecimiento posee pocas familias y pocas referencias. Otro ejemplo son los concesionarios de autos.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 11. 
+                  h5 Figura 10. 
                   | Surtido estrecho y poco profundo
                 img(alt="Se presenta cuando el  establecimiento tiene pocas familias y pocas referencias." src="@/assets/curso/tema2/11.svg")
     
@@ -180,12 +177,12 @@
           .col-lg-8.col-md-12.my-3
             h3.mb-4 La rentabilidad de la tienda
             p.mb-0 El establecimiento debe decidir qué precio se ajusta a los productos. Desde la teoría, un establecimiento amplio y profundo, es decir, con una superficie grande, podría aumentar sus precios de venta con el fin de lograr mayor rentabilidad. Es normal, porque el cliente recibe a cambio el poder comprar todo lo que necesita sin necesidad de trasladarse a otro almacén, tienda o establecimiento. Pero se debe pensar en qué prefieren los clientes: mayor variedad de productos con mayores posibilidades de elección de productos o menor variedad de productos con menores posibilidades de elección de productos. 
-      .py-md-4(titulo="La naturaleza de los productos")
+      .py-md-4(titulo="Tridimensionales")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/14.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 La naturaleza de los productos
+            h3.mb-4 Tridimensionales
             p.mb-0 Al comprar artículos comunes como pan, huevos, leche o mantequilla, los consumidores generalmente no comparan mucho, por lo que no es necesario contar con un surtido muy profundo en el establecimiento. En cambio, al adquirir productos menos frecuentes o poco comunes, como electrodomésticos, textiles o muebles, los clientes tienden a comparar más detenidamente. En estos casos, el cliente evalúa diversas opciones en cuanto a precio, características, calidad y beneficios, por lo que es importante ofrecer un surtido más amplio. 
       .py-md-4(titulo="El modo de presentación de los productos")
         .row.justify-content-center.align-items-center
@@ -392,14 +389,14 @@
               p Normalmente usado en establecimientos que tienen venta al por menor. Puede confundir y frustrar, porque no se puede ver por encima del mobiliario; es más económico.
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3
-                h5 Figura 12. 
+                h5 Figura 11. 
                 | Diseño recto
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/26.png', alt='Presenta un diseño recto que se utiliza en los establecimientos, el cual no permite ver por enciam del mobiliario.')
+                img(src='@/assets/curso/tema2/26.png', alt='Presenta un diseño recto que se utiliza en los establecimientos, el cual no permite ver por encima del mobiliario.')
           .row.align-items-center
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3.text-left
-                h5 Figura 13. 
+                h5 Figura 12. 
                 | Diseño diagonal
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/27.png', alt='Presenta un diseño diagonal del establecimiento, mejorando la visibilidad para los cajeros y clientes.')
@@ -415,7 +412,7 @@
               p Es el más costoso por las curvas y los ángulos de los muebles.
             .col-auto
               .titulo-sexto.color-secundario.mb-3
-                h5 Figura 14. 
+                h5 Figura 13. 
                 | Diseño angular
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/28.png', alt='Presenta un diseño angular del establecimiento, con curvas y ángulos que permiten apreciar mejor los productos.')
@@ -423,7 +420,7 @@
           .row.align-items-center
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3.text-left
-                h5 Figura 15. 
+                h5 Figura 14. 
                 | Diseño geométrico
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/29.png', alt='Presenta un diseño para establecimientos con bastidores que permiten mejorar la exhibición.')
@@ -437,7 +434,7 @@
               p Integra diseños rectos, diagonales y con ángulos planos para generar un diseño funcional. Mueve el tráfico hacia los muros y el fondo del establecimiento.
             .col-auto
               .titulo-sexto.color-secundario.mb-3
-                h5 Figura 16. 
+                h5 Figura 15. 
                 | Diseño mixto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/30.png', alt='Presenta diseños rectos y diagonales de manera funcional.')
@@ -880,7 +877,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8
         .titulo-sexto.color-secundario.mb-4
-          h5 Figura 17. 
+          h5 Figura 16. 
           | Ciclo de vida del producto
         img(src="@/assets/curso/tema2/60.svg" alt='Presenta el ciclo de vida de un producto en cuanto a las ventas en el tiempo, inicialmente se realiza una introducción del mismo, se impulsa el crecimiento para lograr la madurez en el ventas, posteriormente presenta un declive.')
 
