@@ -177,12 +177,12 @@
           .col-lg-8.col-md-12.my-3
             h3.mb-4 La rentabilidad de la tienda
             p.mb-0 El establecimiento debe decidir qué precio se ajusta a los productos. Desde la teoría, un establecimiento amplio y profundo, es decir, con una superficie grande, podría aumentar sus precios de venta con el fin de lograr mayor rentabilidad. Es normal, porque el cliente recibe a cambio el poder comprar todo lo que necesita sin necesidad de trasladarse a otro almacén, tienda o establecimiento. Pero se debe pensar en qué prefieren los clientes: mayor variedad de productos con mayores posibilidades de elección de productos o menor variedad de productos con menores posibilidades de elección de productos. 
-      .py-md-4(titulo="Tridimensionales")
+      .py-md-4(titulo="La naturaleza de los productos")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/14.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Tridimensionales
+            h3.mb-4 La naturaleza de los productos
             p.mb-0 Al comprar artículos comunes como pan, huevos, leche o mantequilla, los consumidores generalmente no comparan mucho, por lo que no es necesario contar con un surtido muy profundo en el establecimiento. En cambio, al adquirir productos menos frecuentes o poco comunes, como electrodomésticos, textiles o muebles, los clientes tienden a comparar más detenidamente. En estos casos, el cliente evalúa diversas opciones en cuanto a precio, características, calidad y beneficios, por lo que es importante ofrecer un surtido más amplio. 
       .py-md-4(titulo="El modo de presentación de los productos")
         .row.justify-content-center.align-items-center
@@ -316,12 +316,12 @@
           .col-lg-8.col-md-12.my-3
             h3.mb-4 Pictóricos
             p.mb-0 Es un planograma más complejo y detallado porque usan una imagen del producto y de cómo debe ser exhibido. Por lo general, se diseñan a escala y en colores para proveer una descripción exacta de los productos exhibidos. Comúnmente usado en establecimientos de moda y tiendas por departamento donde la exhibición es más relevante y la presentación es primordial. Suelen ser imágenes bidimensionales, a través de fotos o ilustraciones que presentan en detalle el diseño de los productos.
-      .py-md-4(titulo="La naturaleza de los productos")
+      .py-md-4(titulo="Tridimensionales")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/24.svg', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 La naturaleza de los productos
+            h3.mb-4 Tridimensionales
             p.mb-3 PlanoGraphics, Planogramas PRO y Adalta Apollo Space Management & Planning, entre otros.
             p.mb-3 Cuando se establece un planograma se debe evitar:
             ul.lista-ul
