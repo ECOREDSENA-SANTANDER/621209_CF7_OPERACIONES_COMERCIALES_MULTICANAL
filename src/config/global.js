@@ -4,7 +4,7 @@ export default {
     Description:
       'La exhibición del surtido en el punto de venta es fundamental para todo tipo de establecimiento comercial. Por esta razón, las empresas deben pensar en cómo organizar adecuadamente sus locales de tal forma que tengan un impacto y una influencia positiva sobre las decisiones de compra por parte de los clientes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -259,7 +259,7 @@ export default {
     },
     {
       referencia:
-        'Borja, R. P. (2021). Merchadinsing. Teoría, práctica y estrategia. Esic Editorial.',
+        'Borja, R. P. (2021). Merchandinsing. Teoría, práctica y estrategia. Esic Editorial.',
       link: '',
     },
     {

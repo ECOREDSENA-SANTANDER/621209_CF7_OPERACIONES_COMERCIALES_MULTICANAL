@@ -55,7 +55,7 @@
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row.align-items-center
             .col-lg
-              h4 Un espacio físico
+              h3 Un espacio físico
               p Se refiere al local o la tienda donde se ofrecen los productos. Dependiendo del tipo de establecimiento comercial, el espacio físico puede contar con parqueadero, sala de ventas, servicios sanitarios y otros servicios adicionales que sirven para mejorar la atención al cliente.
             .col-auto
               figure(data-aos="zoom-in")
@@ -65,11 +65,11 @@
               figure(data-aos="zoom-in")
                 img.d-none.d-lg-block(src='@/assets/curso/tema1/7.png', alt='')
             .col-lg
-              h4.text-left Productos
+              h3.text-left Productos
               p.text-left Son todos los bienes y servicios que se ofrecen en el espacio físico. Si el establecimiento es una relojería, los productos son relojes; si es una empresa de telecomunicaciones, un servicio podría ser la conexión a internet.
           .row.align-items-center
             .col-lg
-              h4 Vendedores
+              h3 Vendedores
               p Son la fuerza de ventas del establecimiento y los que se van a encargar de atender, asesorar y vender los productos a los clientes. En otras palabras, son quienes logran que los clientes efectúen las acciones de compra.
             .col-auto
               figure(data-aos="zoom-in")
@@ -79,7 +79,7 @@
               figure(data-aos="zoom-in")
                 img.d-none.d-lg-block(src='@/assets/curso/tema1/9.png', alt='')
             .col-lg
-              h4.text-left Compradores
+              h3.text-left Compradores
               p.text-left Estas son las personas, clientes y consumidores que llegan al establecimiento para realizar una compra, ya sea de un bien o de un servicio.
 
     p.mb-0(data-aos="fade-right") Con estos cuatro elementos se puede generar la transacción de compra y venta en cualquier establecimiento comercial.  
@@ -270,14 +270,14 @@
               h4.mb-4.text-center Zona fría
               .col-6
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema1/25.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema1/25.svg',)
             p.text-center Área de circulación por donde el cliente transita muy poco. Su técnica consiste en ubicar productos de mayor rotación y promociones de venta con el objetivo de hacer transitar a los clientes por todo el lugar.
           .col-md.tarjeta.bg04.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Zona caliente
               .col-6
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema1/26.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema1/26.svg',)
             p.text-center Área de circulación de forma natural por parte del cliente. Su técnica consiste en ubicar productos nuevos o de menor rotación.
     
     

@@ -158,7 +158,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Determinación de las dimensiones del surtido
+        h4.mb-0.ms-2 Determinación de las dimensiones del surtido
 
     p.mb-4(data-aos="fade-right") En la gestión del surtido, el primer paso es definir con precisión sus dimensiones. Para lograrlo, es necesario considerar los siguientes factores:
     
@@ -297,7 +297,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Tipos de planogramas
+        h4.mb-0.ms-2 Tipos de planogramas
 
     p.mb-4(data-aos="fade-right") Esencialmente hay tres tipos de planogramas:
     
@@ -376,7 +376,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2  Tipos de #[em layout]
+        h4.mb-0.ms-2  Tipos de #[em layout]
 
     p.mb-5(data-aos="fade-right") A continuación, se presentan cinco (5) tipos de #[em layout] diferentes utilizados en los establecimientos:
 
@@ -765,7 +765,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
       .col-lg-7
         p.mb-4 Es el conjunto de estrategias y tácticas efectuadas dentro del establecimiento y que tiene como fin buscar el artículo correcto, en la cantidad necesaria, con el precio justo, en el tiempo adecuado, con una presentación visual impactante y dentro de una exhibición sobresaliente. Se refiere a todos los esfuerzos destinados a que el cliente, no solo conozca el producto, sino también, que tome una acción de compra.
-        p.mb-4 El término #[em merchandising], como se conoce en la actualidad, se incrementó con la aparición del autoservicio en Estados Unidos en la década de 1930. Época en la que los establecimientos se dieron cuenta del impacto e influencia que tenían las exhibiciones en el consumidor. Los artículos que estaban exhibidos tenían una mejor respuesta comercial dando comienzo a una serie de investigaciones en el tema, que terminaron por profesionalizar el área. Y fue así como, con el paso de los años, los supermercados comenzaron a usar el #[em merchadising] para destacar y promocionar toda la mercancía en sus lugares de venta (Borja, 2021).
+        p.mb-4 El término #[em merchandising], como se conoce en la actualidad, se incrementó con la aparición del autoservicio en Estados Unidos en la década de 1930. Época en la que los establecimientos se dieron cuenta del impacto e influencia que tenían las exhibiciones en el consumidor. Los artículos que estaban exhibidos tenían una mejor respuesta comercial dando comienzo a una serie de investigaciones en el tema, que terminaron por profesionalizar el área. Y fue así como, con el paso de los años, los supermercados comenzaron a usar el #[em merchandising] para destacar y promocionar toda la mercancía en sus lugares de venta (Borja, 2021).
       .col-lg-5.col-9.col-md-9
         img(alt="" src="@/assets/curso/tema2/50.png")
     
@@ -793,28 +793,28 @@
               h4.mb-4.text-center #[em Merchandising] de presentación
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/51.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/51.svg')
             p Se presentan los productos de modo que sea fácil de verlos por parte del cliente y además rentable para el establecimiento.
           .col-md.tarjeta.bg04.bdd.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center #[em Merchandising] de gestión
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/52.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/52.svg')
             p Gestiona el espacio o lugar de venta para obtener el mayor rendimiento en cada lineal o góndola.
           .col-md.tarjeta.bg03.bd.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center #[em Merchandising] de seducción
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/53.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/53.svg')
             p Da un aspecto seductor, no solo al lineal, sino a la tienda en general. También se conoce como “tienda espectáculo” por el diseño especial que se crea para el impacto visual al cliente.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
         .sub.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
-            img(src='@/assets/curso/tema2/ico.svg', alt='')
+            img(src='@/assets/curso/tema2/ico.svg')
             h3.mb-0.ms-2 Según el tipo de cliente
     
     .row.justify-content-center.align-items-center.mb-4
@@ -825,14 +825,14 @@
               h4.mb-4.text-center.text-white Para el cliente  #[em shopper] 
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/54.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/54.svg')
             p.text-white El cliente que requiere de un grupo de argumentos para visitar un establecimiento en lugar de otro.
           .col-md.tarjeta.bg06.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Para el cliente #[em buyer]
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/55.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/55.svg')
             p Se refiere al cliente que ya se encuentra dentro del establecimiento y que se basa en el precio, la calidad del producto, las promociones de venta, la gama de productos y la atención recibida para tomar una decisión de compra.
 
     .row.justify-content-center.align-items-center.mb-4
@@ -850,28 +850,28 @@
               h4.mb-4.text-center Producto de lanzamiento
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/56.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/56.svg')
             p Cuando una nueva referencia, bien o servicio sale al mercado, es necesario definir su emplazamiento, ubicación y lineal donde será exhibido. 
           .col-md.tarjeta.bg04.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Producto de ataque
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/57.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/57.svg')
             p Cuando el producto crece rápidamente, se posiciona y es el mejor frente a los demás productos de la familia. En ese momento se puede darle un espacio más amplio en el lineal.
           .col-md.tarjeta.bg03.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Producto de mantenimiento
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/58.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/58.svg')
             p Cuando el producto ya llegó a su madurez, está posicionado y tiene un buen lugar y espacio en el lineal. En este momento se debe tratar de que esta situación permanezca la mayor cantidad de tiempo posible.
           .col-md.tarjeta.bg04.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Producto de defensa
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/59.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/59.svg')
             p Cuando el producto se encuentra en su fase de declive y es cuando el espacio puede disminuir o incluso desaparecer del lineal. El fabricante debe decidir si lo retira del mercado o si le inyecta un cambio que sea positivo para el cliente.
     
     .row.justify-content-center.align-items-center.mb-4
@@ -884,7 +884,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Funciones del #[em merchandising]
+        h4.mb-0.ms-2 Funciones del #[em merchandising]
 
     p.mb-4(data-aos="fade-right") La labor de crear #[em merchandising] es ubicar, apoyar, monitorear y actualizar los productos, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
     
