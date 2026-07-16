@@ -337,7 +337,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10  
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Como en cualquier plan, es importante que en la activación de marca se establezca con detalle un plan y un cronograma que detalle bien la idea, con sus acciones, recursos, fechas, responsables y KPI (#[em Key Performance Indicator o indicador clave de rendimiento]) obtenidos. Para este tipo de estrategias se recomienda tener una visión a largo plazo, una coherencia con la identidad y personalidad de la marca, un cumplimiento de las promesas, un diálogo con los clientes y un oído activo; además de tener un trato personalizado con los clientes, una gestión colaborativa, y finalmente una capacidad de adaptarse según sean los comentarios de los clientes (AA. VV., 2020).
+          p.mb-0 Como en cualquier plan, es importante que en la activación de marca se establezca con detalle un plan y un cronograma que detalle bien la idea, con sus acciones, recursos, fechas, responsables y KPI (Key Performance Indicator o indicador clave de rendimiento) obtenidos. Para este tipo de estrategias se recomienda tener una visión a largo plazo, una coherencia con la identidad y personalidad de la marca, un cumplimiento de las promesas, un diálogo con los clientes y un oído activo; además de tener un trato personalizado con los clientes, una gestión colaborativa, y finalmente una capacidad de adaptarse según sean los comentarios de los clientes (AA. VV., 2020).
 
 
 </template>
