@@ -249,7 +249,7 @@ export default {
   referencias: [
     {
       referencia:
-        'AA. VV. (2020). La comunicación en la sociedad digital: reputación, big data-audiencia y medios, ante un público. Esic Editorial.',
+        'AA. VV. (2020). La comunicación en la sociedad digital: reputación, big data-audiencia y medios, ante un público cambiante. ESIC Editorial.',
       link: '',
     },
     {
@@ -259,7 +259,7 @@ export default {
     },
     {
       referencia:
-        'Borja, R. P. (2021). Merchandinsing. Teoría, práctica y estrategia. Esic Editorial.',
+        'Borja, R. P. (2021). Merchandising. Teoría, práctica y estrategia. Esic Editorial.',
       link: '',
     },
     {
@@ -274,7 +274,7 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., y Armstrong, G. (2013). Fundaments de Marketing. Pearson Educación.',
+        'Kotler, P., & Armstrong, G. (2013). Fundamentos de marketing (11.ª ed.). Pearson Educación.',
       link: '',
     },
     {
@@ -314,7 +314,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales (RED)',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

@@ -8,7 +8,7 @@
       .col-lg-12
         .bg1.p-1.mb-5
           figure.my-3
-            img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual titulado “Exhibición y vitrinismo en el formato comercial”. El esquema organiza la información en tres ejes principales: retail, surtido y muebles en el punto de venta. En retail se explican el establecimiento comercial, la arquitectura del establecimiento y los formatos comerciales. En surtido se presentan la estructura del surtido, el layout, el vitrinismo o visual merchandising, la señalización comercial, el planograma o planimetría, la exhibición de productos, el merchandising y los dispositivos de seguridad. En muebles en el punto de venta se abordan los tipos de muebles, la codificación de productos, la activación de marca, la rotación de categorías y el precio. El mapa muestra cómo estos elementos contribuyen a organizar los productos, facilitar la compra, atraer la atención del consumidor, proteger los productos y aumentar las ventas.")
+            img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual sobre exhibición y vitrinismo en el formato comercial, organizado en retail, surtido y muebles en el punto de venta.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

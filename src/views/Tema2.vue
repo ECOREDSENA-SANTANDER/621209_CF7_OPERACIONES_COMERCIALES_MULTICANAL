@@ -86,28 +86,28 @@
               h4.mb-4.text-center Amplitud
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/4.png', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/4.png', alt='')
             p.text-center Número de familias diferentes de productos que ofrece la marca.
           .col-md.tarjeta.bg04.bdd.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Profundidad
               .col-8
                 figure
-                  img.img-a.img-t(src='@/assets/curso/tema2/5.png', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/tema2/5.png', alt='')
             p.text-center Número de variantes que la marca ofrece por cada producto en cada familia. 
           .col-md.tarjeta.bg03.bd.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Longitud
               .col-8
                 figure
-                  img.img-a.img-t.my-2(src='@/assets/curso/tema2/6.png', alt='Texto que describa la imagen')
+                  img.img-a.img-t.my-2(src='@/assets/curso/tema2/6.png', alt='')
             p.text-center Número total de productos que tiene la marca en una familia.
           .col-md.tarjeta.bg04.bdd.p-4
             .row.justify-content-center.mb-4
               h4.mb-4.text-center Consistencia
               .col-8
                 figure
-                  img.img-a.img-t.my-2.mt-3(src='@/assets/curso/tema2/7.png', alt='Texto que describa la imagen')
+                  img.img-a.img-t.my-2.mt-3(src='@/assets/curso/tema2/7.png', alt='')
             p.text-center Cercanía relativa entre las líneas de producto y su uso final.
     
     p.mb-5(data-aos="fade-right") A continuación, se presenta cómo se organizan dichas dimensiones del surtido:
@@ -168,35 +168,35 @@
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/12.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 El tamaño de la tienda
+            h4.mb-4 El tamaño de la tienda
             p.mb-0 Se refiere a la superficie que dispone el establecimiento, y según sea su tamaño la empresa podrá jugar con el diseño de la longitud y profundidad del surtido de productos. 
       .py-md-4(titulo="La rentabilidad de la tienda")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/13.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 La rentabilidad de la tienda
+            h4.mb-4 La rentabilidad de la tienda
             p.mb-0 El establecimiento debe decidir qué precio se ajusta a los productos. Desde la teoría, un establecimiento amplio y profundo, es decir, con una superficie grande, podría aumentar sus precios de venta con el fin de lograr mayor rentabilidad. Es normal, porque el cliente recibe a cambio el poder comprar todo lo que necesita sin necesidad de trasladarse a otro almacén, tienda o establecimiento. Pero se debe pensar en qué prefieren los clientes: mayor variedad de productos con mayores posibilidades de elección de productos o menor variedad de productos con menores posibilidades de elección de productos. 
       .py-md-4(titulo="La naturaleza de los productos")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/14.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 La naturaleza de los productos
+            h4.mb-4 La naturaleza de los productos
             p.mb-0 Al comprar artículos comunes como pan, huevos, leche o mantequilla, los consumidores generalmente no comparan mucho, por lo que no es necesario contar con un surtido muy profundo en el establecimiento. En cambio, al adquirir productos menos frecuentes o poco comunes, como electrodomésticos, textiles o muebles, los clientes tienden a comparar más detenidamente. En estos casos, el cliente evalúa diversas opciones en cuanto a precio, características, calidad y beneficios, por lo que es importante ofrecer un surtido más amplio. 
       .py-md-4(titulo="El modo de presentación de los productos")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/15.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 El modo de presentación de los productos
+            h4.mb-4 El modo de presentación de los productos
             p.mb-0 Se refiere a la forma en que se exhiben los productos. Se pueden usar góndolas, determinados tipos de contenedores, #[em displays] o incluso, la presentación de los artículos en el suelo. Es por esto por lo que el modo de presentación de los productos influye directamente en la composición del surtido.
       .py-md-4(titulo="El comportamiento de la clientela")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/16.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 El comportamiento de la clientela
+            h4.mb-4 El comportamiento de la clientela
             p.mb-0 Se debe tener en cuenta los hábitos de compra por parte de los clientes que, según sus características psicológicas y su poder adquisitivo, realizan las compras bien sea de manera banal o excepcional.
     p.mb-4(data-aos="fade-left") Para lograr un equilibrio en el establecimiento comercial se debe llegar a una optimización en la anchura y la profundidad del surtido, eligiendo la composición que mejor funcione en el interior, y pensando en los factores enumerados anteriormente, en los productos y en los clientes. Además, se deben medir de forma cuidadosa los siguientes dos valores:
     
@@ -294,10 +294,12 @@
           .row.col-xl-11.m-auto(titulo="Señalización y PLV")
             p.mb-0 Establecer si la categoría pudiera beneficiarse de la señalización interna del local o del material PLV (Publicidad en el Lugar de Venta). 
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h4.mb-0.ms-2 Tipos de planogramas
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de planogramas
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+        
 
     p.mb-4(data-aos="fade-right") Esencialmente hay tres tipos de planogramas:
     
@@ -307,21 +309,21 @@
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/22.svg', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Casillas con texto
+            h4.mb-4 Casillas con texto
             p.mb-0 Es el planograma más sencillo, porque emplea recuadros para representar los artículos, ubicando su nombre adentro. Por lo general, son en blanco y negro y bidimensionales. Principalmente son usados en tiendas de alimentos o en departamentos que tienen productos con alta rotación.
       .py-md-4(titulo="Pictóricos")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/23.svg', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Pictóricos
+            h4.mb-4 Pictóricos
             p.mb-0 Es un planograma más complejo y detallado porque usan una imagen del producto y de cómo debe ser exhibido. Por lo general, se diseñan a escala y en colores para proveer una descripción exacta de los productos exhibidos. Comúnmente usado en establecimientos de moda y tiendas por departamento donde la exhibición es más relevante y la presentación es primordial. Suelen ser imágenes bidimensionales, a través de fotos o ilustraciones que presentan en detalle el diseño de los productos.
       .py-md-4(titulo="Tridimensionales")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/24.svg', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Tridimensionales
+            h4.mb-4 Tridimensionales
             p.mb-3 PlanoGraphics, Planogramas PRO y Adalta Apollo Space Management & Planning, entre otros.
             p.mb-3 Cuando se establece un planograma se debe evitar:
             ul.lista-ul
@@ -373,10 +375,13 @@
             |
             p En cuanto al mercadeo, el #[em layout] se refiere al emplazamiento de los bienes o servicios en cualquier tipo de establecimiento, o sea, a su organización estratégica con el fin de disminuir el consumo de mano de obra y certificar la correcta exhibición de los artículos. El #[em marketing-layout] tiene como objeto aumentar las ventas por metro cuadrado, agrupando o separando los artículos con base a los criterios de consumo que identifiquen a un determinado mercado. Por ejemplo, en el tema de las estanterías se suele elegir entre dos tipos de #[em layout]: rectangular o angular (Martínez, 2016).
     
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h4.mb-0.ms-2  Tipos de #[em layout]
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de #[em layout]
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+        
+
 
     p.mb-5(data-aos="fade-right") A continuación, se presentan cinco (5) tipos de #[em layout] diferentes utilizados en los establecimientos:
 
@@ -438,8 +443,14 @@
                 | Diseño mixto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/30.png', alt='Presenta diseños rectos y diagonales de manera funcional.')
-
-    h4.mb-4(data-aos="fade-right") Formatos del #[em layout]
+    
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Formatos del #[em layout]
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+        
+  
     p.mb-5(data-aos="fade-left") Se distinguen dos (2) categorías principales, #[em layout] con transformación y sin transformación:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5
@@ -465,8 +476,12 @@
             p.mb-0 #[b Fase de diseño de la disposición de los elementos que deben “decorar” el almacén.] Se procede a crear el #[em layout] en el almacén. La exhibición debe estar lista y los muebles deben tener todo el contenido de artículos, señalética y PLV.
       .col-lg-5.col-md-9.col-9
         img(src='@/assets/curso/tema2/31.png')
-    
-    h4.mb-4(data-aos="fade-right") Características del #[em layout]
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Características del #[em layout]
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+
     p.mb-0(data-aos="fade-left") Disminuye la cantidad de movimientos del surtido, además de su manipulación, mermas e incluso robos, lo que hace que el inventario sea exacto. También hace que el establecimiento tenga una buena distribución evitando zonas congestionadas y, por último, facilita la gestión de mantenimiento del surtido (Martínez, 2016).
     
 
@@ -661,7 +676,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/42.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            h4.mb-4 Elementos que componen una vitrina:
+            h5.mb-4 Elementos que componen una vitrina:
             br
             br
             |
@@ -732,7 +747,7 @@
               figure
                 img(src='@/assets/curso/tema2/47.png' alt="")
             .crd_hover_txt--body.colt
-              h5.mb-3.text-center El montaje
+              h4.mb-3.text-center El montaje
               p.mt-4.mb-0.text-center.mb-5 Una idea decorativa con productos integrados, que permiten al transeúnte entender rápidamente el mensaje de la tienda.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crd_hover_txt
@@ -740,7 +755,7 @@
               figure
                 img(src='@/assets/curso/tema2/48.png' alt="")
             .crd_hover_txt--body.colt
-              h5.mb-3.text-center El tema
+              h4.mb-3.text-center El tema
               p.mt-4.mb-0.text-center.mb-5 Mensaje que se incorpora al montaje para recordar una fecha o actividad.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crd_hover_txt
@@ -748,7 +763,7 @@
               figure
                 img(src='@/assets/curso/tema2/49.png' alt="")
             .crd_hover_txt--body.colt
-              h5.mb-3.text-center El foco
+              h4.mb-3.text-center El foco
               p.mt-4.mb-0.text-center.mb-5 Centro óptico seleccionado para llamar la atención.
     
     separador
@@ -783,28 +798,28 @@
         .sub.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/tema2/ico.svg', alt='')
-            h3.mb-0.ms-2 Según la naturaleza
+            h4.mb-0.ms-2 Según la naturaleza
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12   
         .tarjeta--container.row.mb-4
           .col-md.tarjeta.bg03.bd.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center #[em Merchandising] de presentación
+              h5.mb-4.text-center #[em Merchandising] de presentación
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/51.svg')
             p Se presentan los productos de modo que sea fácil de verlos por parte del cliente y además rentable para el establecimiento.
           .col-md.tarjeta.bg04.bdd.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center #[em Merchandising] de gestión
+              h5.mb-4.text-center #[em Merchandising] de gestión
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/52.svg')
             p Gestiona el espacio o lugar de venta para obtener el mayor rendimiento en cada lineal o góndola.
           .col-md.tarjeta.bg03.bd.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center #[em Merchandising] de seducción
+              h5.mb-4.text-center #[em Merchandising] de seducción
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/53.svg')
@@ -815,21 +830,21 @@
         .sub.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/tema2/ico.svg')
-            h3.mb-0.ms-2 Según el tipo de cliente
+            h4.mb-0.ms-2 Según el tipo de cliente
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8 
         .tarjeta--container.row.mb-4
           .col-md.tarjeta.bg02.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center.text-white Para el cliente  #[em shopper] 
+              h5.mb-4.text-center.text-white Para el cliente  #[em shopper] 
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/54.svg')
             p.text-white El cliente que requiere de un grupo de argumentos para visitar un establecimiento en lugar de otro.
           .col-md.tarjeta.bg06.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center Para el cliente #[em buyer]
+              h5.mb-4.text-center Para el cliente #[em buyer]
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/55.svg')
@@ -840,35 +855,35 @@
         .sub.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/tema2/ico.svg', alt='')
-            h3.mb-0.ms-2 Según el ciclo de vida del producto
+            h4.mb-0.ms-2 Según el ciclo de vida del producto
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
         .tarjeta--container.row.mb-4
           .col-md.tarjeta.bg03.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center Producto de lanzamiento
+              h5.mb-4.text-center Producto de lanzamiento
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/56.svg')
             p Cuando una nueva referencia, bien o servicio sale al mercado, es necesario definir su emplazamiento, ubicación y lineal donde será exhibido. 
           .col-md.tarjeta.bg04.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center Producto de ataque
+              h5.mb-4.text-center Producto de ataque
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/57.svg')
             p Cuando el producto crece rápidamente, se posiciona y es el mejor frente a los demás productos de la familia. En ese momento se puede darle un espacio más amplio en el lineal.
           .col-md.tarjeta.bg03.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center Producto de mantenimiento
+              h5.mb-4.text-center Producto de mantenimiento
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/58.svg')
             p Cuando el producto ya llegó a su madurez, está posicionado y tiene un buen lugar y espacio en el lineal. En este momento se debe tratar de que esta situación permanezca la mayor cantidad de tiempo posible.
           .col-md.tarjeta.bg04.p-4
             .row.justify-content-center.mb-4
-              h4.mb-4.text-center Producto de defensa
+              h5.mb-4.text-center Producto de defensa
               .col-8
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/59.svg')
@@ -881,10 +896,12 @@
           | Ciclo de vida del producto
         img(src="@/assets/curso/tema2/60.svg" alt='Presenta el ciclo de vida de un producto en cuanto a las ventas en el tiempo, inicialmente se realiza una introducción del mismo, se impulsa el crecimiento para lograr la madurez en el ventas, posteriormente presenta un declive.')
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h4.mb-0.ms-2 Funciones del #[em merchandising]
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Funciones del #[em merchandising]
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+
 
     p.mb-4(data-aos="fade-right") La labor de crear #[em merchandising] es ubicar, apoyar, monitorear y actualizar los productos, además de tener la exhibición impecable y apoyar los productos con publicidad que los acompañe (Borja, 2021). 
     
@@ -925,14 +942,14 @@
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/62.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Localización previa del sitio
+            h5.mb-4 Localización previa del sitio
             p.mb-0 Diagnósticos del marco legal determinado y derroteros en el reconocimiento del punto de venta. Ayuda para comprender cuáles son los condicionantes que se deben tener en cuenta a la hora de diseñar la señalética. Por otro lado, se debe tener en cuenta qué tipo de signos se van a usar, para que el creativo entre en acción y diseñe las diferentes piezas, donde debe tener en cuenta el espacio disponible, tamaño de las piezas, colores, texturas, materiales. El diseño que desarrolle el creativo debe ser coherente a la identidad y personalidad de la marca, y debe ir de acuerdo con las normativas del sitio. Una vez el diseño esté listo y aprobado se pasa a la etapa de producción e instalación.
       .py-md-4(titulo="Señalización del establecimiento comercial")
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-7.col-9.my-3
             img.img-a.img-t(src='@/assets/curso/tema2/63.png', alt='')
           .col-lg-8.col-md-12.my-3
-            h3.mb-4 Señalización del establecimiento comercial
+            h5.mb-4 Señalización del establecimiento comercial
             p.mb-4 El diseño de la señalización debe tener armonía con la arquitectura del establecimiento. El trabajo interdisciplinario, en este momento es fundamental, porque se debe tener en cuenta la opinión de arquitectos, diseñadores industriales y técnicos especialistas en el tema. Con esto se asegura un óptimo resultado en el cumplimiento de los objetivos de señalización en el punto de venta.
             p.mb-0 La finalidad de la señalización comercial es la de hacer un llamado de atención al público presente sobre algunas situaciones de riesgo de una manera simple, rápida y de fácil comprensión. Cuando la señalización de seguridad falta en el interior de un establecimiento incrementa las situaciones de riesgo, porque priva a empleados y visitantes de una elemental información básica que puede alertar sobre el riesgo y la forma en que se puede evitar (Costa, 2007).
   
@@ -965,11 +982,10 @@
           .row.col-xl-11.m-auto(titulo="Resolución 2400 de mayo 22 de 1979")
             p.mb-0 Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
           .row.col-xl-11.m-auto(titulo="Título V. Artículo 202. Código de Colores")
-            p.mb-0 “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren (aparatos, máquinas, equipos, ductos, tuberías, etc.); y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la American Standards Association (ASA) y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”. 
-          .row.col-xl-11.m-auto(titulo="Decreto 1443 de 2014")
-            p.mb-0 Por medio del cual se dictan disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST).
+            p.mb-0 “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren (aparatos, máquinas, equipos, ductos, tuberías, y etc.); Y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la American Standards Association (ASA) y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”. 
+          
           .row.col-xl-11.m-auto(titulo="Decreto 1072 de 2015, especialmente la parte referida al SG-SST")
-            p.mb-0 Está especialmente enfocada a OSHAS 18001, indicando cómo definir unos parámetros para lograr la mejora continua.
+            p.mb-0 Compila las disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST) mediante un proceso lógico y por etapas, basado en la mejora continua. Como referente internacional en esta materia, la norma ISO 45001:2018 reemplazó a la antigua OHSAS 18001.
   
     p.mb-5(data-aos="fade-right") Además, existe una normativa que establece los parámetros que se deben cumplir en el diseño de las señales de seguridad. Se trata de la norma técnica Colombiana NTC 1461, que tiene como fin instaurar los colores y señales de seguridad que deben ser usados para prevenir accidentes y riesgos contra la salud e integridad de las personas, además de situaciones de emergencia. Esta norma se apoya en las normas internacionales ISO 3864-1 e ISO 16069:2004, que establecen varios criterios para el diseño de estas. A continuación, se exponen algunos de esos criterios:
   

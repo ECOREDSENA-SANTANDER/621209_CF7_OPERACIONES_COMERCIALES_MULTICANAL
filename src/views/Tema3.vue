@@ -129,7 +129,7 @@
               .col-lg-12  
                 .cajon.color-acento-contenido.p-4.mb-4 
                   p.mb-0 Por cantidad, solo ocupan por lo general el 20 % de los inventarios, pero, en realidad, son los productos que tienen más rotación y, por tanto, tienen una jerarquía estratégica. Las referencias A se refiere a aquellos artículos donde el establecimiento tiene una inversión más alta de su presupuesto y por lo tanto generan el 80 % de los ingresos, por lo que es muy importante que no existan roturas de #[em stock] (inventario).
-                p.mb-4 También pertenecen a este grupo los SKU (#[em Stock-keeping Unit] o referencia) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta. Se recomienda conservar un control exhaustivo del inventario de aquellas referencias que se clasificaron como A con renovación frecuente, o incluso permanente. A la hora de situar las referencias A en la góndola, tienden a ubicarse en zonas que tengan un acceso directo y fácil para el operario y, además, que estén cerca de los muelles de salida o de carga dentro del local.
+                p.mb-4 También pertenecen a este grupo las unidades de mantenimiento de existencias (SKU, por la expresión en inglés #[em stock-keeping unit]) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta.
                 p.mb-0 Ejemplos: secciones que presentan rotación alta y que están conformadas por familias de productos perecederos de diversa naturaleza como por ejemplo carnicería, pescadería, panadería, frutas y verduras, lácteos, aceites y refrescos. Y en cuanto a su ubicación en el punto de venta se sitúan en la zona fría, con el objetivo de generar tránsito de clientes hacia ese cuadrante.
       .py-md-4(titulo="Artículos con rotación B")
         .row.justify-content-center.align-items-center
@@ -174,15 +174,15 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-8
         p.mb-4 La codificación de artículos en el establecimiento hace que se tenga una buena organización del inventario, por esto influye de manera positiva en todas las actividades que se realicen en el punto de venta. Por ello, la importancia de que cada producto esté identificado desde antes de que el cliente lo ubique en su carrito de compra.
-        p.mb-4 El proceso de codificación de productos radica en identificar los artículos sin equivocación con un código o signo. Código que se asocia a una etiqueta que se adhiere al producto y que va a permitir el acceso a él de forma electrónica. Los más usados son los códigos de barras y las etiquetas RFID (etiquetas autoadhesivas, flexibles y delgadas, con impresión frontal humanamente visible).
-        p.mb-0 Codificar significa fijar un código a un artículo. Con este código se puede conocer algunas de sus características principales como por ejemplo la referencia, fecha de llegada al almacén, fechas de envasado y de expiración e ingredientes, entre otras. Su finalidad es identificar los artículos de forma unívoca (no pueden existir dos artículos con el mismo código). El sistema de gestión de bodegas (WMS - Warehouse Management System) tiene un papel preponderante en este proceso porque es el que crea el código de cada artículo, fija las ubicaciones de los artículos en el punto de venta y controla su trazabilidad. 
+        p.mb-4 El proceso de codificación de productos radica en identificar los artículos sin equivocación con un código o signo. Código que se asocia a una etiqueta que se adhiere al producto y que va a permitir el acceso a él de forma electrónica. Los más usados son los códigos de barras y las etiquetas de identificación por radiofrecuencia (RFID, por la expresión en inglés #[em radio-frequency identification]), las cuales son autoadhesivas, flexibles y delgadas, con impresión frontal legible.
+        p.mb-0 #[b Codificar significa fijar un código a un artículo.] Con este código se puede conocer algunas de sus características principales como por ejemplo la referencia, fecha de llegada al almacén, fechas de envasado y de expiración e ingredientes, entre otras. Su finalidad es identificar los artículos de forma unívoca (no pueden existir dos artículos con el mismo código). El sistema de gestión de bodegas (WMS, por la expresión en inglés #[em warehouse management system]) tiene un papel preponderante en este proceso, porque crea el código de cada artículo, fija la ubicación de los productos en el punto de venta y controla su trazabilidad.
       .col-lg-4.col-md-9.col-9
         img(src='@/assets/curso/tema3/17.png', alt='')
   
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10  
         .cajon.color-primario.p-4
-          p.mb-0 Actualmente hay tendencias como las entregas extrarrápidas o el acopio de mercancías de un tamaño menor han dado como resultado una complicación en los procesos del establecimiento. Por ello, se hace vital que se pueda instaurar un control íntegro de los productos, registrando todos sus movimientos con el fin de hacer un estudio exacto sobre los flujos de mercancía para poderlos optimizar. Gracias a esta codificación y a la asistencia de la gestión de bodegas - WMS, los operarios pueden localizar y expedir productos más rápidamente y con menores errores (Publicaciones Vértice, 2010).
+          p.mb-0 Actualmente hay tendencias como las entregas extrarrápidas o el acopio de mercancías de un tamaño menor han dado como resultado una complicación en los procesos del establecimiento. Por ello, se hace vital que se pueda instaurar un control íntegro de los productos, registrando todos sus movimientos con el fin de hacer un estudio exacto sobre los flujos de mercancía para poderlos optimizar. Gracias a esta codificación y al apoyo del WMS, los operarios pueden localizar y expedir productos con mayor rapidez y menos errores. (Publicaciones Vértice, 2010).
 
     separador
     #t_3_4.titulo-segundo.mb-5
@@ -191,13 +191,16 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8
         p.mb-4 El precio es la cantidad monetaria que se requiere para obtener un bien o un servicio, y se desarrolla a través de una transacción en la que el cliente hace el pago al fabricante. Para que se produzca tal transacción el precio debe ser aprobado por el cliente y los distribuidores (en caso de que los haya). Por eso, el precio es un indicador del equilibrio entre clientes y vendedores cuando se compra y se vende un bien o servicio. La llamada ley de la oferta y la demanda es una teoría económica que representa ese equilibrio entre compradores y vendedores (Kotler y Armstrong, 2013).
-        .subt.mb-4(data-aos="fade-right")
-          .d-flex.align-items-center.mb-1
-            img(src='@/assets/curso/tema1/ic.svg', alt='')
-            h3.mb-0.ms-2 Tipos de precios
-        p.mb-4 A continuación, se conocerá cómo se diferencian los tipos que existen en el mercado:
       .col-lg-4.col-md-9.col-9
         img(src='@/assets/curso/tema3/18.png', alt='')
+    .mb-5
+        .mb-4.d-flex.ps-lg-0
+          .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+            h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de precios
+            img.icon(src='@/assets/curso/tema2/icon.svg') 
+         
+    p.mb-4 A continuación, se conocerá cómo se diferencian los tipos que existen en el mercado:
+      
 
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-10.col-12.col-md-12
@@ -206,10 +209,12 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/oAckAf22nFU?si=VFLwODiT71MC6GPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
           figcaption Video. Tipos de precios
     
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Estrategias de precio
+    .mb-5
+        .mb-4.d-flex.ps-lg-0
+          .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+            h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Estrategias de precio
+            img.icon(src='@/assets/curso/tema2/icon.svg') 
+       
     
     p.mb-4(data-aos="fade-right") Se basan en establecer precios que pueden ser menores, mayores o iguales a los precios de venta y que, estratégicamente, dependen de la intención del fabricante y la imagen que quiera dejarles a los clientes. Según esto, algunas de las estrategias de precio más comunes son:
     
@@ -219,32 +224,32 @@
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Penetración")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Penetración]
+                h4.mb-4 #[b Penetración]
                 p.mb-0 Precios por debajo del valor de venta al inicio del ciclo de vida para crear atracción estimulando al cliente a su compra. Luego, el precio comienza a estabilizarse en su valor monetario de venta. Es muy común en productos de lanzamiento o introducción al mercado, para darse a conocer más rápido.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Desnatado o descremado")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Desnatado o descremado]
+                h4.mb-4 #[b Desnatado o descremado]
                 p.mb-0 Precios altos al principio del ciclo de vida, que tienen una gran inversión publicitaria y promocional para cautivar a una gran parte del mercado, pero que con el paso del tiempo lo van reduciendo poco a poco hasta su precio de venta con el fin de conquistar luego a los demás segmentos.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Alineamiento")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Alineamiento]
+                h4.mb-4 #[b Alineamiento]
                 p.mb-0 Precio de introducción al mercado que es similar al de los productos de la competencia.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Primado")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Primado]
+                h4.mb-4 #[b Primado]
                 p.mb-0 Precio alto que le fija a un artículo que no tendrá ningún tipo de descuento y que servirá para observar la fidelidad de los clientes frente a la marca. Se trata de una de las mejores formas que se tienen para lograr “valor de marca”. Ejemplo: Apple.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Descuento por cantidad o volumen")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Descuento por cantidad o volumen]
+                h4.mb-4 #[b Descuento por cantidad o volumen]
                 p.mb-0 Precio que presenta una deducción en su valor monetario cuyo fin es motivar a los clientes a comprar más de lo que realmente requieren o en grandes cantidades; estos descuentos se fijan según el tamaño de la demanda, bien sea en la suma de dinero o en unidades.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Promoción de ventas")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Promoción de ventas]
+                h4.mb-4 #[b Promoción de ventas]
                 p.mb-0 Precios por debajo de su valor monetario habitual de forma temporal (puede ser en fecha especiales) con el fin de originar una compra de manera instantánea. Ejemplos: Ciberlunes o #[em Black Friday.] 
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -262,7 +267,7 @@
       .col-lg-8
         p.mb-4 Los clientes en la actualidad están más invadidos de publicidad porque, además de los medios tradicionales o masivos (televisión, prensa, radio, revistas, cine, etc.), también están los medios alternativos (correo electrónico, redes sociales, blogs, telefonía celular, etc.). En un contexto así, las acciones de mercadeo alternativo se convierten en una oportunidad muy atractiva. Precisamente una de estas acciones alternativas de mercadeo es la activación de marca.
         .cajon.color-secundario.p-4
-          p.mb-0 El concepto se puede definir con aquellas actividades en que la marca tiene una relación directa con el cliente. Esas actividades pertenecen al #[em marketing] BTL que es la sigla de #[em Below The Line] (mercadeo alternativo o no tradicional). El mercadeo alternativo se identifica por llamar la atención del cliente de una manera diferente a las demás acciones de comunicación como por ejemplo la publicidad, boletines, promociones o fuerza de ventas.
+          p.mb-0 El concepto se puede definir con aquellas actividades en que la marca tiene una relación directa con el cliente.  Estas actividades pertenecen al mercadeo alternativo o no tradicional, conocido como BTL, por la expresión en inglés #[em below the line]. El mercadeo alternativo se identifica por llamar la atención del cliente de una manera diferente a las demás acciones de comunicación como por ejemplo la publicidad, boletines, promociones o fuerza de ventas.
 
     p.mb-4(data-aos="fade-left") La más importante ventaja de estas actividades alternativas de mercadeo es que crean un vínculo con el cliente, además de lograr una experiencia significativa y un recuerdo agradable; y suelen usar factores psicológicos de los clientes para alcanzar un mayor impacto en ellos (AA. VV., 2020).
     p.mb-5(data-aos="fade-right") Como se presenta en los diferentes ejemplos, la activación de marca se refiere a una puesta en escena de un plan de acción que lleve la marca a donde se encuentre el cliente, bien sea un parque, un centro comercial, un escenario público, etc.; y donde a través de una idea impactante lo haga pasar un momento memorable, sin este darse cuenta de que fue publicidad.
@@ -287,28 +292,28 @@
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Comunicación")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Comunicación]
+                h4.mb-4 #[b Comunicación]
                 p.mb-0 Es el contenido y la forma en que se desarrolla la idea, y debe comunicarse a través de canales tanto masivos como alternativos. De este modo, la marca tiene la oportunidad de expresar su identidad y estilo mediante los mensajes y el tono utilizado en la comunicación. 
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Productos o servicios")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Productos o servicios]
+                h4.mb-4 #[b Productos o servicios]
                 p.mb-0 Se refiere a la primera y más importante forma de expresión de una marca. Los productos deben hacer tangible la propuesta de valor. Ello requiere a veces mejorar productos, discontinuar algunos o lanzar productos nuevos que ayuden a lograr los objetivos propuestos en la activación.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Personas y procesos")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Personas y procesos]
+                h4.mb-4 #[b Personas y procesos]
                 p.mb-0 Indica que todos los empleados son agentes potenciales de la marca. Con su compromiso es que una marca se construye de forma sólida.
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Entornos digitales")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Entornos digitales]
+                h4.mb-4 #[b Entornos digitales]
                 p.mb-0 Se refiere a internet y su ecosistema digital, que incluye el sitio web, aplicaciones, redes sociales, blogs, chats, entre otros. A través de estos canales, los clientes pueden establecer un vínculo con la marca después de la activación, y también compartir sus experiencias con sus contactos. La presencia en estos medios, junto con la gestión de perfiles, mensajes, identidad, y la capacidad de diálogo, interacción y retroalimentación con los clientes, hace que esta dimensión sea fundamental en la activación de las marcas. 
           
           .tarjeta.color-acento-botones.bg01.p-4(titulo="Entornos físicos")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p.mb-4 #[b Entornos físicos]
+                h4.mb-4 #[b Entornos físicos]
                 p.mb-0 Se refiere a permitirle al cliente de poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o #[em stands] en donde el cliente pueda dejar comentarios o sugerencias.
     
     p.mb-4(data-aos="fade-right") Estas dimensiones podrán ser dispuestas por cualquier tipo de empresa, así no tengan la oportunidad de estar en los 360 º ya que con una buena estrategia en medios alternativos y una buena inversión en la activación podría llamar la atención del cliente. Para una empresa del sector #[em retail], las dimensiones del entorno físico y las personas son vitales, porque a los clientes los tiene disponibles y cautivos en el momento de la compra dentro del punto de venta y si los trabajadores están comprometidos todo debe salir muy bien a la hora de desarrollar una activación. Eso sí, sin olvidarse de los demás niveles, los cuales deben ser trabajados de manera coherente con la idea y la identidad de la marca para que en medios digitales el cliente tenga la oportunidad de vincularse con la marca y además de referenciarla a sus contactos.
@@ -337,7 +342,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10  
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Como en cualquier plan, es importante que en la activación de marca se establezca con detalle un plan y un cronograma que detalle bien la idea, con sus acciones, recursos, fechas, responsables y KPI (Key Performance Indicator o indicador clave de rendimiento) obtenidos. Para este tipo de estrategias se recomienda tener una visión a largo plazo, una coherencia con la identidad y personalidad de la marca, un cumplimiento de las promesas, un diálogo con los clientes y un oído activo; además de tener un trato personalizado con los clientes, una gestión colaborativa, y finalmente una capacidad de adaptarse según sean los comentarios de los clientes (AA. VV., 2020).
+          p.mb-0 Como en cualquier plan, es importante que en la activación de marca se establezcan detalladamente la idea, las acciones, los recursos, las fechas, los responsables y los indicadores clave de rendimiento (KPI, por la expresión en inglés #[em key performance indicator]). Para este tipo de estrategias se recomienda tener una visión a largo plazo, una coherencia con la identidad y personalidad de la marca, un cumplimiento de las promesas, un diálogo con los clientes y un oído activo; además de tener un trato personalizado con los clientes, una gestión colaborativa, y finalmente una capacidad de adaptarse según sean los comentarios de los clientes (AA. VV., 2020).
 
 
 </template>

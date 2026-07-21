@@ -94,7 +94,7 @@
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-4 En Colombia existe una tendencia que ha gustado en los clientes; se trata de preferir nuevos formatos y canales comerciales de venta directa e independiente con precios económicos en distintos productos. Así, se obtiene un gran beneficio a través de productos que se consideran de buena calidad, presentación, que están distribuidos en espacios limpios y atendidos por un personal capacitado y joven. 
         .cajon.color-primario.p-4
-          p.mb-4 #[b D1, Ara y Justo & Bueno] son ejemplos de lo anterior. Presentan un comportamiento dinámico e innovador, con una excelente aceptación por parte de la sociedad. Estos establecimientos pertenecen al sector del descuento duro #[em #[b (hard discount)]] y se caracterizan por ofrecer precios económicos, especialmente en productos de la canasta familiar, en comparación con los establecimientos tradicionales. Esta estrategia ha llevado a que muchos clientes los prefieran a la hora de hacer sus compras.
+          p.mb-4 #[b D1, Ara] son ejemplos de lo anterior. Presentan un comportamiento dinámico e innovador, con una excelente aceptación por parte de la sociedad. Estos establecimientos pertenecen al sector del descuento duro #[em #[b (hard discount)]] y se caracterizan por ofrecer precios económicos, especialmente en productos de la canasta familiar, en comparación con los establecimientos tradicionales. Esta estrategia ha llevado a que muchos clientes los prefieran a la hora de hacer sus compras.
           p.mb-0 Sus tiendas son sencillas, no realizan inversiones en publicidad, cuentan con pocos empleados, no tienen impulsadores y ofrecen productos de pequeños y medianos proveedores que, con precios económicos, intentan mantenerse en el mercado.
 
     p.mb-4(data-aos="fade-right") Con estos cambios y la evolución en el sector #[em retail], se ha generado una transformación en el comportamiento del consumidor y en sus hábitos de compra. Los productos de marca propia que se ofrecen en estas tiendas de venta al por menor emergen como una nueva alternativa para los clientes. Además, esta tendencia permite que empresas, principalmente pymes colombianas, se involucren como proveedores, contribuyendo a la generación de empleo y al desarrollo económico local (Vigaray, 2005).
@@ -104,21 +104,21 @@
       .row.col-xl-11.m-auto(titulo="Tiendas")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-8
-            p.mb-4 Es un tipo de establecimiento que ofrece bienes o servicios al detal, es decir, por unidad. No existe la venta al por mayor, o sea, grandes cantidades de un producto.
-            p.mb-3 Son pequeños en tamaño y ofrecen atención directa por parte de un asesor cuando se requiera; además, supone la presencia de mostradores que cumplen la función de separar y dividir la sala de ventas con respecto a los artículos que están a la venta. Ejemplo: D1.
+            p.mb-4 Es un tipo de establecimiento que ofrece bienes o servicios al detal, es decir, por unidad. No existe la venta al por mayor, o sea, en grandes cantidades de un producto.
+            p.mb-3 Son establecimientos pequeños que ofrecen atención directa por parte de un asesor cuando se requiere. Además, pueden contar con mostradores que separan la sala de ventas de los artículos ofrecidos. Ejemplo: una tienda de ropa, calzado o accesorios con atención asistida.
           .col-lg-4
             .row.justify-content-center.align-items-center
               .col-lg-8
-                img.img-a.img-t(src="@/assets/curso/tema1/11.svg")
+                img.img-a.img-t(src="@/assets/curso/tema1/11.png")
       .row.col-xl-11.m-auto(titulo="Almacenes")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-8
-            p.mb-4 Son establecimientos ubicados en zonas residenciales que surten de una variedad amplia de productos al público cercano.
-            p.mb-3 También se les puede conocer con los nombres de bodegueros, pulperos o tenderos. Ejemplo: ARA.
+            p.mb-4 Son establecimientos ubicados en zonas residenciales que ofrecen una variedad de productos al público cercano. Quienes atienden estos establecimientos pueden denominarse bodegueros, pulperos o tenderos. Ejemplo: un almacén de barrio que comercializa víveres, productos de aseo y artículos de uso cotidiano.
+       
           .col-lg-4
             .row.justify-content-center.align-items-center
               .col-lg-8
-                img.img-a.img-t(src="@/assets/curso/tema1/12.svg")
+                img.img-a.img-t(src="@/assets/curso/tema1/12.png")
       .row.col-xl-11.m-auto(titulo="Supermercados")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-8
@@ -186,10 +186,13 @@
     
     p.mb-4(data-aos="fade-right") Hay diferentes tipos de arquitectura que se pueden apreciar en los diferentes establecimientos, como las siguientes:
   
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 La arquitectura exterior del establecimiento
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") La arquitectura exterior del establecimiento
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+    
+       
     
     p.mb-4(data-aos="fade-right") Son cuatro los elementos que conforman el diseño exterior de cualquier establecimiento. Estos elementos ayudan a mostrar la personalidad e identidad de una marca, contribuyendo a posicionar su imagen corporativa en la mente de los consumidores (Borja, 2021). Estas son:
 
@@ -229,10 +232,12 @@
                 h4.mb-4 Fachada
                 p.mb-0 Es el diseño arquitectónico que tiene el establecimiento en su exterior. Si la empresa tiene varias sedes, debe ser muy parecido el diseño de tal manera que tenga una unidad visual que permita ser reconocido por los clientes en cuanto lo vean. En ella es donde va el rótulo comercial, por lo general muy cerca de la puerta principal de acceso al establecimiento.
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 La arquitectura interior del establecimiento comercial
+    .mb-5
+      .mb-4.d-flex.ps-lg-0
+        .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") La arquitectura interior del establecimiento comercial
+          img.icon(src='@/assets/curso/tema2/icon.svg') 
+    
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12
@@ -249,7 +254,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/34.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            h4 Puntos de acceso
+            h5 Puntos de acceso
             br
             br
             |
@@ -258,7 +263,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Localización de zonas
+        h4.mb-0.ms-2 Localización de zonas
     
     p.mb-4 Son zonas imaginarias que dividen el espacio en dos partes iguales de la siguiente forma:
 
@@ -284,7 +289,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Zonas
+        h4.mb-0.ms-2 Zonas
 
     p.mb-4(data-aos="fade-left") Estas se identifican según sea el punto de acceso:
 
@@ -334,7 +339,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Ubicación de las secciones
+        h4.mb-0.ms-2 Ubicación de las secciones
 
     p.mb-4(data-aos="fade-right") Es la manera en que se organizan las distintas áreas del establecimiento. Incluye la disposición de los productos en las diferentes secciones, así como la planificación de las zonas de circulación, las zonas frías y las zonas calientes. Por ejemplo, la sección a la derecha puede estar dedicada al aseo personal, mientras que la sección a la izquierda se destina al aseo para el hogar.
     p.mb-4(data-aos="fade-left") La cantidad de secciones va a depender del tipo de local:
@@ -343,9 +348,9 @@
       .row.col-xl-11.m-auto(titulo="Local especializado – Local ultraespecializado")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-6
-            h4.mb-2 Local especializado
+            h5.mb-2 Local especializado
             p.mb-4 Posee muy pocas secciones, pero puede tener muchas categorías de productos, tienen profundidad, una venta tradicional, además de familias y subfamilias en los productos.
-            h4.mb-2 Local ultraespecializado
+            h5.mb-2 Local ultraespecializado
             p.mb-3 Posee solamente una sección, pero está altamente especializado, por ejemplo, solamente vende ropa deportiva. Además, posee una gran profundidad.
           .col-lg-6
             .row.justify-content-center.align-items-center
@@ -371,7 +376,7 @@
         .subt.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/tema1/ic.svg', alt='')
-            h3.mb-0.ms-2 Diseño de pasillos
+            h4.mb-0.ms-2 Diseño de pasillos
         p.mb-4 Los pasillos son los espacios por donde transitan los clientes en el establecimiento, y deben tener un diseño especial e impactante que facilite la compra por parte de los clientes, favoreciendo su andar buscando los productos que necesita comprar. La dimensión o espacio de los pasillos puede representar el éxito o el fracaso del establecimiento, porque si son muy estrechos, no habrá facilidad en la circulación, y si son muy anchos disminuirá la superficie destinada para la venta.
       .col-lg-4.col-md-7.col-9
         img(src="@/assets/curso/tema1/33.png" alt='')
