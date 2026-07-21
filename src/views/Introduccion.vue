@@ -10,7 +10,7 @@
       h1 Introducción
     
     p.mb-4(data-aos="fade-right") La exhibición de productos en el punto de venta es crucial para cualquier establecimiento comercial. Por ello, se invita a consultar el siguiente video “exhibición y vitrinismo en el formato comercial”: 
-
+    h1 DANI LA MEJOR
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12.col-12.col-md-12
         figure(data-aos="fade-right").py-2
