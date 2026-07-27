@@ -90,7 +90,7 @@
 
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-7.col-9.mb-4
-        img.img-a.img-t(src='@/assets/curso/tema1/10.svg', alt='tema1')
+        img.img-a.img-t(src='@/assets/curso/tema1/10.svg', alt='')
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-4 En Colombia existe una tendencia que ha gustado en los clientes; se trata de preferir nuevos formatos y canales comerciales de venta directa e independiente con precios económicos en distintos productos. Así, se obtiene un gran beneficio a través de productos que se consideran de buena calidad, presentación, que están distribuidos en espacios limpios y atendidos por un personal capacitado y joven. 
         .cajon.color-primario.p-4

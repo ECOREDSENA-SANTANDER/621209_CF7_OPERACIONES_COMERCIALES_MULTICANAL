@@ -80,7 +80,7 @@ export default {
           },
           {
             numero: '2.5',
-            titulo: 'Vitrinismo o visual <em>merchandising</em>',
+            titulo: 'Vitrinismo o <em> visual merchandising</em>',
             hash: 't_2_5',
           },
           {

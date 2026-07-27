@@ -27,7 +27,7 @@
             i.fas.fa-circle-check
             p.mb-0 Provoca en los clientes una mejor experiencia de compra al tener un impactante diseño y una excelente distribución del mobiliario comercial. 
       .col-lg-4.col-md-7.col-8.mb-4
-        img(src='@/assets/curso/tema3/1.png', alt='tema1')
+        img(src='@/assets/curso/tema3/1.png', alt='')
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10.col-md-12.col-12  
@@ -117,7 +117,7 @@
         p.mb-4 El método ABC de clasificación de inventarios admite ordenar la distribución de los distintos artículos dentro del establecimiento según sea la popularidad, valor, rotación e importancia para la marca. Con este método se le da más importancia en la ubicación de los productos al aporte económico que suponen para la empresa. Y se basa en el principio de Pareto o regla del 80 / 20, que enseña que el 20 % del esfuerzo es responsable del 80 % de los resultados. Si se emplea en el ecosistema del establecimiento, el 20 % de los productos generan el 80 % de los movimientos de mercancía, mientras que el 80 % de los artículos ocasiona el sobrante 20 % de movimientos (Borja, 2021). 
         p.mb-4 Las referencias se clasifican, entonces, en los siguientes tres niveles:
       .col-lg-4.col-md-7.col-8.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/12.png', alt='tema3')
+        img(src='@/assets/curso/tema3/12.png', alt='')
     
     TabsC.color-primario.mb-4(data-aos="zoom-in-left")
       .py-md-4(titulo="Artículos con rotación A")

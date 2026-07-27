@@ -15,7 +15,7 @@
         .cajon.color-primario.p-4
           p.mb-0 #[b La coherencia del surtido:] es el equilibrio que se consigue entre productos según los criterios de rotación, margen, superficie y lineal disponible, motivación de la clientela, necesidades permanentes y estacionales. La elección del surtido es un acto fundamental ya que, al determinarlo, se satisface a un sector de clientela en detrimento de otro (Salen, 1994).
       .col-lg-4.col-md-7.col-8
-        img(src='@/assets/curso/tema2/1.png', alt='tema1')
+        img(src='@/assets/curso/tema2/1.png', alt='')
 
     separador
     #t_2_1.titulo-segundo.mb-4
@@ -23,7 +23,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-9.col-9.mb-4
-        img.d-none.d-lg-block(src='@/assets/curso/tema2/2.png', alt='tema1')
+        img.d-none.d-lg-block(src='@/assets/curso/tema2/2.png', alt='')
       .col-lg-8.col-md-12.col-12.mb-2
         p.mb-3 Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, #[em whisky], ron, aguardiente, #[em brandy], etc.
         p.mb-3 La cantidad de referencias que pone en venta un establecimiento está condicionada por el tamaño del local. Evidentemente, los establecimientos que posean más tamaño tendrán la posibilidad de poner en venta una mayor cantidad de referencias. 
@@ -223,7 +223,7 @@
         p.mb-3 Se puede definir como un instrumento del #[em merchandising] que consiste en el diseño de un boceto, diagrama o croquis a través de un #[em software], donde se describe detalladamente el lugar en el que se van a ubicar los artículos. Además, el planograma detalla la cantidad de productos, el número de #[em facings] (caras) de un mismo producto, cuál es la altura y qué profundidad deben ocupar las distintas referencias señaladas. Se entiende por #[em facing] al número de caras de un mismo producto que se necesitan para que se pueda ver por parte del cliente. Por lo tanto, el planograma viene siendo una estrategia de mercadeo que tiene como objetivo hacer visible al producto al interior del establecimiento.
         p.mb-3 La complejidad de un planograma va a depender del tamaño del establecimiento, de las necesidades del detallista o del programa #[em (software)] utilizado para su diseño. Por eso se recomienda que el planograma sea sencillo, pero que, a la vez, detalle toda la información necesaria para saber cuál es la ubicación exacta de cada artículo dentro de la tienda. 
       .col-lg-4.col-md-7.col-8.mb-4
-        img(src='@/assets/curso/tema2/18.png', alt='tema1')
+        img(src='@/assets/curso/tema2/18.png', alt='')
 
     .row.fondo2.align-items-center.p-0.mb-5(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -237,11 +237,11 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-lg-4.col-md-6.mb-4
             .overflow-hidden.h-100.bg5.p-4
-              img.img-a.img-t(src='@/assets/curso/tema2/19.svg', alt='tema1')
+              img.img-a.img-t(src='@/assets/curso/tema2/19.svg', alt='')
               p.mb-0 #[b Mejorar la ubicación de los productos.] Poniendo los productos más vendidos o que son más rentables en un nivel más destacado.
           .col-lg-4.col-md-6.mb-4
             .overflow-hidden.h-100.bg5.p-4
-              img.img-a.img-t(src='@/assets/curso/tema2/20.svg', alt='tema1')
+              img.img-a.img-t(src='@/assets/curso/tema2/20.svg', alt='')
               p.mb-0 #[b Aumentar las ventas.] Con el uso de los planogramas, los establecimientos comerciales deciden cómo va a lucir el lineal y qué artículos serán más accesibles para el cliente; además de procurar que el diseño sea más impactante y atractivo para los clientes.
     
     p.mb-4(data-aos="fade-right") Y en cuanto a los beneficios: 
@@ -653,7 +653,7 @@
 
     separador
     #t_2_5.titulo-segundo.mb-5
-      h2 2.5	Vitrinismo o visual #[em merchandising]
+      h2 2.5	Vitrinismo o #[em visual merchandising]
 
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
       .col-lg-12.col-12.col-md-12
@@ -969,7 +969,7 @@
           p.mb-0 #[b La ubicación:] que esté en una adecuada altura y en una apropiada posición. Se debe tener en cuenta los posibles obstáculos que interfieran su visibilidad y el ángulo con respecto a la visual del cliente.
         p.mb-0 En Colombia existen leyes y resoluciones relacionadas con las normas en señalización, que buscan asegurar la integridad y salud del ser humano en el ámbito laboral y en lugares públicos, como se cita a continuación. 
       .col-lg-4.col-md-9.col-9
-        img.d-none.d-lg-block(src='@/assets/curso/tema2/64.png', alt='tema1')
+        img.d-none.d-lg-block(src='@/assets/curso/tema2/64.png', alt='')
     
     .row.justify-content-center.mb-4
       .col-lg-4(data-aos="fade-left" data-aos-delay="500")
@@ -982,7 +982,7 @@
           .row.col-xl-11.m-auto(titulo="Resolución 2400 de mayo 22 de 1979")
             p.mb-0 Por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
           .row.col-xl-11.m-auto(titulo="Título V. Artículo 202. Código de Colores")
-            p.mb-0 “En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren (aparatos, máquinas, equipos, ductos, tuberías, y etc.); Y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la American Standards Association (ASA) y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales”. 
+            p.mb-0 En todos los establecimientos de trabajo en donde se lleven a cabo operaciones y/o procesos que integren (aparatos, máquinas, equipos, ductos, tuberías, y etc.); Y demás instalaciones locativas necesarias para su funcionamiento que utilizarán los colores básicos recomendados por la American Standards Association (ASA) y otros colores específicos, para identificar los elementos, materiales, etc., y demás elementos específicos que determinen o prevengan riesgos que puedan causar accidentes o enfermedades profesionales. 
           
           .row.col-xl-11.m-auto(titulo="Decreto 1072 de 2015, especialmente la parte referida al SG-SST")
             p.mb-0 Compila las disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST) mediante un proceso lógico y por etapas, basado en la mejora continua. Como referente internacional en esta materia, la norma ISO 45001:2018 reemplazó a la antigua OHSAS 18001.
