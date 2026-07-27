@@ -660,7 +660,7 @@
         figure(data-aos="fade-right").py-2
           .video.mb-1
             iframe(width="560" height="315" src="https://www.youtube.com/embed/6kYW3aYKamI?si=iFiG1rkcI_3qqQ6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-          figcaption Video. Visual #[em Merchandising]
+          figcaption Video. #[em Visual Merchandising]
     
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
       .col-lg-8.mb-3
